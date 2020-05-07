@@ -1,10 +1,4 @@
 
-The 1st password is: pravin1988
+The 1st password is: vishal123
 
-The 2nd password is: pravin1988
-
-The 1st password is: 99670751
-
-The 1st password is: 98191169
-
-The 2nd password is: 9819116975
+The 2nd password is: vishal123
