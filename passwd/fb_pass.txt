@@ -1,18 +1,2 @@
 
 The 1st User name is: vishal@gmail.com && the 1st Password is: vishal1
-
-The 2nd User name is: vishal@gmail.com && the 2nd Password is: vishal2
-
-The 2nd User name is: 9769908336 && the 2nd Password is: 8108109999
-
-The 1st User name is: 9967075134 && the 1st Password is: 8097377817
-
-The 1st User name is: 9967075134 && the 1st Password is: 98191169
-
-The 1st User name is: 8097377817 && the 1st Password is: 98191169
-
-The 2nd User name is: 99670751 && the 2nd Password is: 9819116975
-
-The 1st User name is: pavarprashant91@gmail.com && the 1st Password is: 8355837330
-
-The 2nd User name is: Pavarprashant@yahoo.in && the 2nd Password is: 8355837330
