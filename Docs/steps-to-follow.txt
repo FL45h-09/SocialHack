@@ -1,0 +1,11 @@
+install dataplicity in device
+
+sudo apt install apache2 php
+
+copy all files in /var/www/html
+
+chenge the permissions
+
+change the ownerships
+
+good to go.
