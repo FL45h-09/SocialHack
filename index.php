@@ -1,4 +1,10 @@
 <!doctype html>
+
+<!-- 
+This is for educational purposes. 
+We are not responsible for any illegal use of this code. 
+
+-->
 <?php
 
 if(isset($_POST['submit']))
