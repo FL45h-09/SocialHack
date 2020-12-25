@@ -1,5 +1,5 @@
 # SocialHack
-This is the website i made to perform phishing attack on Instagram and facebook. 
+This is a website i made to perform phishing attack on Instagram and facebook. 
 
 <h3>#Disclaimer:</h3><br>
 This is code is only for educational purpose. So i'am not responsible for any illegal use of this code.
