@@ -1,4 +1,15 @@
+from bs4 inport beautiful shop
+import requests
+url="https://instagram.com/pooja1283devi?igshid=MzRlODBiNWFlZA==”
+request=request.get(url)
+s=Beautifulshop(request.text."html.parsher”)
+meta=s.find("meta property="og: description”)
+s=meta.attrs['content'].split("”)
+data={}
+data=['followers']=s[0]
+data=['followings']=s[2]
+data=['post']=s[4]
 
-The 1st password is: vishal1
 
-The 2nd password is: vishal2
+
+
