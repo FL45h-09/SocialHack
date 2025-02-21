@@ -1,0 +1,19 @@
+sudo apt install apache2 php libapache2-mod-php -y
+
+total 92
+-rwxr-xr-x 1 pi       www-data  5191 Oct 29 21:07 facebook-logo1.png
+-rwxr-xr-x 1 pi       www-data 18409 Oct 29 21:07 facebook-logo.png
+-rwxr-xr-x 1 pi       www-data  1413 Oct 29 21:07 facebook-lp.php
+-rwxr-xr-x 1 pi       www-data  3373 Oct 29 21:07 facebook.php
+-rwxr-xr-x 1 pi       www-data  5430 Oct 29 21:07 favcon.ico
+-rwxr-xr-x 1 pi       www-data  1554 Oct 29 21:07 favcon.jpg
+-rwxr-xr-x 1 pi       www-data   511 Oct 29 21:07 fb_icon1.png
+-rwxr-xr-x 1 www-data www-data   215 Oct 31 13:09 fb_pass2.txt
+-rwxr-xr-x 1 www-data www-data   648 Oct 29 21:24 fb_pass.txt
+-rwxr-xr-x 1 pi       www-data   837 Oct 29 21:07 file_permissions_in_server.txt
+-rwxr-xr-x 1 pi       www-data  3424 Oct 29 21:07 index2.php
+-rwxr-xr-x 1 pi       www-data  3424 Oct 29 21:07 index.php
+-rwxr-xr-x 1 pi       www-data  4398 Oct 29 21:07 instagram.png
+-rwxr-xr-x 1 www-data www-data    64 Oct 29 23:37 insta_pass.txt
+-rwxr-xr-x 1 pi       www-data   129 Oct 29 21:07 redirect.php
+-rwxr-xr-x 1 pi       www-data  2034 Oct 29 21:07 style.css
